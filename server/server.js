@@ -8,10 +8,10 @@ const request = require("request");
 // watson discovery rest api information
 //dsayers@us.ibm.com
 //Watson Discovery-Plus-Beta-Demos (plus beta)
-const apikey = "77582265-32e2-4ceb-9f43-4d6d27999c91";
+const apikey = "SQdgDfYPLeuFOjqVDx-pivavCWbDmJ0vyINaqWxnbhgt";
 const endpoint =
 "https://api.au-syd.discovery.watson.cloud.ibm.com/instances/4d4eff21-114d-45eb-bbba-499c88bea39a";
-const project_id = "1f58c3fd-3f77-45ef-9cbf-0331650ec0c8";
+const project_id = "77582265-32e2-4ceb-9f43-4d6d27999c91";
 
 // query parameters
 const version = "2021-11-20";

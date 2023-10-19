@@ -21,9 +21,9 @@
 			"extracted_metadata.filename"
 		],
 	"per_document": true,
-	"apikey": "77582265-32e2-4ceb-9f43-4d6d27999c91",
+	"apikey": "SQdgDfYPLeuFOjqVDx-pivavCWbDmJ0vyINaqWxnbhgt",
 	"endpoint": "https://api.au-syd.discovery.watson.cloud.ibm.com/instances/4d4eff21-114d-45eb-bbba-499c88bea39a",
-	"project_id": "1f58c3fd-3f77-45ef-9cbf-0331650ec0c8",
+	"project_id": "77582265-32e2-4ceb-9f43-4d6d27999c91",
 	"version": "2019-11-22"
 
 
