@@ -5,8 +5,7 @@
 		],
 	"collection_ids":
 		[
-			"f44a95bd-a2e3-0308-0000-018ae75f2a6e",
-			"1f600444-0608-74b5-0000-018ae75874e0"
+			"c52af620-748d-8ca8-0000-018cb7d89e7a"
 		],
 	"fields":
 		[
@@ -21,10 +20,9 @@
 			"extracted_metadata.filename"
 		],
 	"per_document": true,
-	"apikey": "SQdgDfYPLeuFOjqVDx-pivavCWbDmJ0vyINaqWxnbhgt",
-	"endpoint": "https://api.au-syd.discovery.watson.cloud.ibm.com/instances/4d4eff21-114d-45eb-bbba-499c88bea39a",
-	"project_id": "77582265-32e2-4ceb-9f43-4d6d27999c91",
-	"version": "2019-11-22"
-
+	"apikey": "CNeq3LHft-jIF0d5KV039ASGxXlXUaOFOtkRzc1z9psS",
+	"endpoint": "https://api.us-south.discovery.watson.cloud.ibm.com/instances/1841cd37-5bff-4c65-9ec9-097e0110386f",
+	"project_id": "a04b69c3-55c8-4735-85c0-0fbeb1f680f2",
+	"version": "2023-03-31"
 
 }
