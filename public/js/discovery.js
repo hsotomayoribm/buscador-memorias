@@ -1,7 +1,6 @@
 // Array that contains the collections id.
 var COLLECTION_IDS = [
-  "f44a95bd-a2e3-0308-0000-018ae75f2a6e",
-  "1f600444-0608-74b5-0000-018ae75874e0"
+  "c52af620-748d-8ca8-0000-018cb7d89e7a"
 ];
 
 //--JQUERY EVENT HANDLER--
